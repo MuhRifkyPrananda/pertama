@@ -10,6 +10,7 @@ pertama.ruang117('RUANG 117')
 pertama.ruang116('RUANG 116')
 pertama.ruang115('RUANG 115')
 pertama.ruang114('RUANG 114')
+pertama.ruang112('RUANG 112')
 
 
 
