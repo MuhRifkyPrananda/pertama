@@ -41,6 +41,9 @@ class Pertama:
         self.pertama.record(nama)
         self.pertama.poly([[[-16, 0], [-16, 4], [-9, 4], [-9, 0], [-16, 0]]])
 
+    def ruang114(self, nama):
+        self.pertama.record(nama)
+        self.pertama.poly([[[-16, -4], [-16, 0], [-9, 0], [-9, -4], [-16, -4]]])
      # Buat yang dari 101 ke bawah aja ya :*
 
     def gudangR(self, nama):
