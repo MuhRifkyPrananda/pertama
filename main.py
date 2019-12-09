@@ -17,9 +17,9 @@ pertama.ruang112('RUANG 112')
 pertama.gudangR('GUDANG R')
 pertama.tanggaR('TANGGA R')
 pertama.ruang101('RUANG 101')
-
-
+pertama.ruang102('RUANG 102')
 pertama.ruang104('RUANG 104')
+pertama.ruang106('RUANG 106')
 
 # Jangan kebawah
 pertama.close()
