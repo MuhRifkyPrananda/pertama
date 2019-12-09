@@ -11,11 +11,11 @@ class Pertama:
 
     def baak(self, nama):
         self.pertama.record(nama)
-        self.pertama.poly([[[0, 0], [4, 0], [4, 8], [0, 8], [0, 0]]])
+        self.pertama.poly([[[-4, 0], [2, 0], [2, 8], [-4, 8], [-4, 0]]])
 
     def bauk(self, nama):
         self.pertama.record(nama)
-        self.pertama.poly([[[4, 0], [13, 0], [13, 8], [4, 8], [4, 0]]])
+        self.pertama.poly([[[2, 0], [13, 0], [13, 8], [2, 8], [2, 0]]])
 
     # Jangan kebawah
     def close(self):
