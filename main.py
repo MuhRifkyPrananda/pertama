@@ -18,6 +18,7 @@ pertama.gudangR('GUDANG R')
 pertama.tanggaR('TANGGA R')
 pertama.ruang101('RUANG 101')
 pertama.ruang102('RUANG 102')
+pertama.ruang103('RUANG 103')
 pertama.ruang104('RUANG 104')
 pertama.ruang106('RUANG 106')
 
