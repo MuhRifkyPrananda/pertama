@@ -58,13 +58,25 @@ class Pertama:
         self.pertama.record(nama)
         self.pertama.poly([[[18, 12], [18, 14], [25, 14], [25, 12], [18, 12]]])
 
+    # dezha
     def ruang101(self, nama):
         self.pertama.record(nama)
         self.pertama.poly([[[18, 8], [18, 12], [25, 12], [25, 8], [18, 8]]])
+    
+    # damara
+    def ruang102(self, nama):
+        self.pertama.record(nama)
+        self.pertama.poly([[[18, 4], [18, 8], [25, 8], [25, 4], [18, 4]]])
 
+    # oni
     def ruang104(self, nama):
         self.pertama.record(nama)
         self.pertama.poly([[[18, -4], [18, 0], [25, 0], [25, -4], [18, -4]]])
+
+    # tomy
+    def ruang106(self, nama):
+        self.pertama.record(nama)
+        self.pertama.poly([[[18, -12], [18, -8], [25, -8], [25, -12], [18, -12]]])
 
     # Jangan kebawah
     def close(self):
