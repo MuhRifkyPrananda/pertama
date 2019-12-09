@@ -83,6 +83,23 @@ class Pertama:
         self.pertama.record(nama)
         self.pertama.poly([[[18, -12], [18, -8], [25, -8], [25, -12], [18, -12]]])
 
+    # fahmi
+    def ruang109(self, nama):
+        self.pertama.record(nama)
+        self.pertama.poly([[[18, -24], [18,-28], [25,-28], [25, -24], [18,-24]]])
+
+    def wcsamping109(self, nama):
+        self.pertama.record(nama)
+        self.pertama.poly([[[18, -28], [18, -30], [25, -30], [25, -28], [18, -28]]])
+
+    def tanggaR2(self, nama):
+        self.pertama.record(nama)
+        self.pertama.poly([[[18, -30], [18, -32], [25, -32], [25, -30], [18, -30]]])
+
+    def gudangR2(self, nama):
+        self.pertama.record(nama)
+        self.pertama.poly([[[18, -32], [18, -34], [25, -34], [25, -32], [18, -32]]])
+
     # Jangan kebawah
     def close(self):
         self.pertama.close()

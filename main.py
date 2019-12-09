@@ -21,6 +21,10 @@ pertama.ruang102('RUANG 102')
 pertama.ruang103('RUANG 103')
 pertama.ruang104('RUANG 104')
 pertama.ruang106('RUANG 106')
+pertama.ruang109('RUANG 109')
+pertama.wcsamping109('WC SAMPING 109')
+pertama.tanggaR2('TANGGA R2')
+pertama.gudangR2('GUDANG R2')
 
 # Jangan kebawah
 pertama.close()
