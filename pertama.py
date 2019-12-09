@@ -16,6 +16,7 @@ class Pertama:
     def bauk(self, nama):
         self.pertama.record(nama)
         self.pertama.poly([[[2, 0], [13, 0], [13, 8], [2, 8], [2, 0]]])
+    # Buat fungsinya dibawah ini
 
     # Jangan kebawah
     def close(self):
