@@ -77,6 +77,12 @@ class Pertama:
     def ruang104(self, nama):
         self.pertama.record(nama)
         self.pertama.poly([[[18, -4], [18, 0], [25, 0], [25, -4], [18, -4]]])
+        
+        
+        # Srir
+    def ruang105(self, nama):
+        self.pertama.record(nama)
+        self.pertama.poly([[[18, -8], [18, -4], [25, -4], [25, -8], [18, -8]]])
 
     # tomy
     def ruang106(self, nama):
