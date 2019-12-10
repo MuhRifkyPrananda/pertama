@@ -28,15 +28,16 @@ class Pertama:
         self.pertama.poly(
             [[[-16, 12], [-16, 14], [-9, 14], [-9, 12], [-16, 12]]])
      # Buat fungsinya dibawah ini
-
+     #dwiy
     def ruang117(self, nama):
         self.pertama.record(nama)
         self.pertama.poly([[[-16, 8], [-16, 12], [-9, 12], [-9, 8], [-16, 8]]])
 
+    #dzihan
     def ruang116(self, nama):
         self.pertama.record(nama)
         self.pertama.poly([[[-16, 4], [-16, 8], [-9, 8], [-9, 4], [-16, 4]]])
-
+    #dwisep
     def ruang115(self, nama):
         self.pertama.record(nama)
         self.pertama.poly([[[-16, 0], [-16, 4], [-9, 4], [-9, 0], [-16, 0]]])
@@ -68,7 +69,7 @@ class Pertama:
         self.pertama.record(nama)
         self.pertama.poly([[[18, 4], [18, 8], [25, 8], [25, 4], [18, 4]]])
         
-    # habib
+    # habib ganteng
     def ruang103(self, nama):
         self.pertama.record(nama)
         self.pertama.poly([[[18, 0], [18, 4], [25, 4], [25, 0], [18, 0]]])
@@ -89,22 +90,31 @@ class Pertama:
         self.pertama.record(nama)
         self.pertama.poly([[[18, -12], [18, -8], [25, -8], [25, -12], [18, -12]]])
 
+     #felix
+    def ruang107(self, nama):
+        self.pertama.record(nama)
+        self.pertama.poly([[[18, -16], [18, -12], [25, -12], [25, -16], [18, -16]]])
+
+    def ruang108(self, nama):
+        self.pertama.record(nama)
+        self.pertama.poly([[[18, -16], [18, -24], [25, -24], [25, -16], [18, -16]]])
+
     # fahmi
     def ruang109(self, nama):
         self.pertama.record(nama)
-        self.pertama.poly([[[18, -24], [18,-28], [25,-28], [25, -24], [18,-24]]])
+        self.pertama.poly([[[18, -24], [18,-32], [25,-32], [25, -24], [18,-24]]])
 
     def wcsamping109(self, nama):
         self.pertama.record(nama)
-        self.pertama.poly([[[18, -28], [18, -30], [25, -30], [25, -28], [18, -28]]])
+        self.pertama.poly([[[18, -32], [18, -34], [25, -34], [25, -32], [18, -32]]])
 
     def tanggaR2(self, nama):
         self.pertama.record(nama)
-        self.pertama.poly([[[18, -30], [18, -32], [25, -32], [25, -30], [18, -30]]])
+        self.pertama.poly([[[18, -34], [18, -36], [25, -36], [25, -34], [18, -34]]])
 
     def gudangR2(self, nama):
         self.pertama.record(nama)
-        self.pertama.poly([[[18, -32], [18, -34], [25, -34], [25, -32], [18, -32]]])
+        self.pertama.poly([[[18, -36], [18, -38], [25, -38], [25, -36], [18, -36]]])
 
     # Jangan kebawah
     def close(self):
